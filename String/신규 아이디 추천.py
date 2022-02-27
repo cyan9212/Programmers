@@ -24,4 +24,4 @@ def solution(new_id):
     while len(answer)<=2: #7단계
         answer = answer+answer[-1]
         
-    return answer
+    return answer 
