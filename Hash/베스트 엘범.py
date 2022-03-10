@@ -20,3 +20,4 @@ def solution(genres, plays):
             if temp:
                 answer.append(temp.pop()[0])
     return answer
+ 
