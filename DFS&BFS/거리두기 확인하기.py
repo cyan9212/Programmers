@@ -30,5 +30,5 @@ def solution(places):
                     result = bfs(place, [i,j,0])
                 if not result:
                     flag = 0
-        answer.append(flag)
+        answer.append(flag) 
     return answer
