@@ -23,3 +23,4 @@ def solution(n, edge):
         if x == max(visited):
             answer+=1
     return answer
+ 
