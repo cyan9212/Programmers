@@ -12,3 +12,4 @@ def solution(p, location):
         else:
             p.append(p.pop(0))
             check.append(check.pop(0))
+ 
