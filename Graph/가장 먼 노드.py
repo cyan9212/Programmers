@@ -24,3 +24,4 @@ def solution(n, edge):
             answer+=1
     return answer
  
+ 
