@@ -16,3 +16,4 @@ def solution(operations):
     if not heap:
         return [0,0]
     return [max(heap),min(heap)]
+ 
