@@ -15,3 +15,4 @@ def solution(bridge_length, weight, truck_weights):
             else:
                 q.append(0)
     return time
+ 
